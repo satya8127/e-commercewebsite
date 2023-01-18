@@ -1,0 +1,8 @@
+com\microservice\apigateway\exception\JwtTokenMalformedException.class
+com\microservice\apigateway\exception\JwtTokenMissingException.class
+com\microservice\apigateway\config\GatewayConfig.class
+com\microservice\apigateway\controller\FallbackController.class
+com\microservice\apigateway\util\JwtUtils.class
+com\microservice\apigateway\ApigatewayApplication.class
+com\microservice\apigateway\config\SecurityConfig.class
+com\microservice\apigateway\filter\JwtAuthenticationFilter.class
