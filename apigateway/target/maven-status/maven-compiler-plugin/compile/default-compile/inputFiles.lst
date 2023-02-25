@@ -1,0 +1,8 @@
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\exception\JwtTokenMalformedException.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\config\SecurityConfig.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\ApigatewayApplication.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\config\GatewayConfig.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\util\JwtUtils.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\filter\JwtAuthenticationFilter.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\controller\FallbackController.java
+C:\Users\satyakumartattukolla\OneDrive - Nagarro\Desktop\satyakumar-tattukolla\microservices-main\apigateway\src\main\java\com\microservice\apigateway\exception\JwtTokenMissingException.java
